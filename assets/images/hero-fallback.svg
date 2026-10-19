@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-label="Ordinateur portable et composants électroniques">
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="62%" r="50%"><stop offset="0" stop-color="#2f86ff" stop-opacity=".45"/><stop offset="1" stop-color="#2f86ff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="alu" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a667c"/><stop offset="1" stop-color="#262f40"/></linearGradient>
+    <linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061226"/><stop offset="1" stop-color="#0c2448"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#1664ee"/><stop offset="1" stop-color="#7cc4ff"/></linearGradient>
+  </defs>
+  <ellipse cx="360" cy="400" rx="330" ry="130" fill="url(#halo)"/>
+  <g fill="none" stroke="#7cc4ff" stroke-opacity=".45" stroke-width="1.5">
+    <path d="M120 420h70l30-24h60M600 420h-80l-26-22h-60M200 470h90l20 18h80M560 470h-70"/>
+    <circle cx="120" cy="420" r="4" fill="#2f86ff"/><circle cx="600" cy="420" r="4" fill="#2f86ff"/><circle cx="390" cy="488" r="4" fill="#2f86ff"/>
+  </g>
+  <path d="M210 120h300a14 14 0 0 1 14 14v206H196V134a14 14 0 0 1 14-14z" fill="url(#alu)"/>
+  <rect x="208" y="132" width="304" height="196" rx="6" fill="url(#scr)"/>
+  <text x="228" y="162" font-family="Work Sans, sans-serif" font-weight="700" font-size="16" fill="#fff">MOMO TECH</text>
+  <text x="380" y="162" font-family="IBM Plex Mono, monospace" font-size="11" fill="#7cc4ff">DIAGNOSTIC SYSTÈME</text>
+  <g font-family="IBM Plex Mono, monospace" font-size="10" fill="#a9b6cc">
+    <text x="228" y="192">PROCESSEUR</text><rect x="228" y="198" width="120" height="5" fill="#7cc4ff" fill-opacity=".15"/><rect x="228" y="198" width="78" height="5" fill="url(#line)"/>
+    <text x="228" y="222">MÉMOIRE</text><rect x="228" y="228" width="120" height="5" fill="#7cc4ff" fill-opacity=".15"/><rect x="228" y="228" width="58" height="5" fill="url(#line)"/>
+    <text x="228" y="252">STOCKAGE</text><rect x="228" y="258" width="120" height="5" fill="#7cc4ff" fill-opacity=".15"/><rect x="228" y="258" width="92" height="5" fill="url(#line)"/>
+    <text x="228" y="300" fill="#5dff9c">✓ Analyse du matériel</text>
+  </g>
+  <path d="M372 270l18-20 16 10 18-34 18 22 18-12 20 18" fill="none" stroke="#7cc4ff" stroke-width="2.5"/>
+  <path d="M150 340h420l34 40H116z" fill="url(#alu)"/>
+  <path d="M116 380h488l-8 10H124z" fill="#1a2130"/>
+  <path d="M200 350h320l14 20H186z" fill="#0b1018" opacity=".85"/>
+  <g transform="translate(70 230) rotate(-12)">
+    <rect width="90" height="90" rx="6" fill="#0d2a52"/><rect x="16" y="16" width="58" height="58" rx="5" fill="#a8b4c6"/>
+    <text x="45" y="50" text-anchor="middle" font-family="Work Sans, sans-serif" font-weight="700" font-size="12" fill="#1a2232">MOMO</text>
+  </g>
+  <g transform="translate(560 170) rotate(14)">
+    <rect width="120" height="36" rx="3" fill="#0d2a52"/>
+    <g fill="#0c0f16"><rect x="8" y="8" width="14" height="18"/><rect x="28" y="8" width="14" height="18"/><rect x="48" y="8" width="14" height="18"/><rect x="68" y="8" width="14" height="18"/><rect x="88" y="8" width="14" height="18"/></g>
+    <rect y="32" width="120" height="4" fill="#d2a85a"/><rect y="0" width="120" height="2" fill="#2f86ff"/>
+  </g>
+  <g fill="#7cc4ff"><circle cx="110" cy="140" r="2" opacity=".7"/><circle cx="640" cy="110" r="2.5" opacity=".6"/><circle cx="620" cy="300" r="1.8" opacity=".8"/><circle cx="90" cy="360" r="2.2" opacity=".5"/><circle cx="520" cy="80" r="1.6" opacity=".7"/><circle cx="250" cy="70" r="2" opacity=".5"/></g>
+</svg>

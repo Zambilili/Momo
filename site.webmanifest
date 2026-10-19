@@ -1,0 +1,14 @@
+{
+  "name": "Momo Tech",
+  "short_name": "Momo Tech",
+  "description": "Réparation, maintenance et assistance informatique au Bénin.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050c1a",
+  "theme_color": "#050c1a",
+  "lang": "fr",
+  "icons": [
+    { "src": "assets/images/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
